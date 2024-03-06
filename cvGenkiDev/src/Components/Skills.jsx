@@ -1,7 +1,11 @@
 
 
 function Skills() {
-    return   (<h2>Skills</h2>)
+    return   (
+        <section>
+          <h2>Habilidades</h2>
+        </section>
+        )
    }
 
 export default Skills

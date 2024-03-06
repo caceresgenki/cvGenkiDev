@@ -2,7 +2,11 @@
 
 
 function Experience() {
-    return   (<h2>Experiencia</h2>)
+    return   (
+        <section>
+          <h2>Experiencia</h2>
+        </section>
+        )
    }
 
 export default Experience

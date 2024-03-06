@@ -1,0 +1,23 @@
+
+
+section {
+    max-width: 680px;
+    margin: 0 auto 24px;
+  }
+
+  section h2 {
+    margin-bottom: 8px;
+    font-weight: 700;
+    line-height: 1.5;
+    font-size: 1.1rem;
+  }
+
+  @media (width <= 700px) {
+    section {
+      margin-bottom: 38px;
+    }
+  }
+
+  .hero {
+    padding-top: 24px;
+  }

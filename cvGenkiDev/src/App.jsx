@@ -11,13 +11,17 @@ import KeyboardManager from '../src/Components/KeyboardManager'
 function App() {
  return   (
   <>
-    <NavBar />
-    <Hero />
-    <About />
-    <Experience />
-    <Education />
-    <Projects />
-    <Skills />
+    <header>
+      <NavBar />
+    </header>
+    <main>
+      <Hero />
+      <About />
+      <Experience />
+      <Education />
+      <Projects />
+      <Skills />
+    </main>
     <KeyboardManager />
   </>
  )

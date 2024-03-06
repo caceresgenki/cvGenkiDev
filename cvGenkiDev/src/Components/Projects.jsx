@@ -2,7 +2,11 @@
 
 
 function Projects() {
-    return   (<h2>Proyectos</h2>)
+    return   (
+        <section>
+          <h2>Proyectos</h2>
+        </section>
+        )
    }
 
 export default Projects

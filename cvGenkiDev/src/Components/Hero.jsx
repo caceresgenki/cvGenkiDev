@@ -8,7 +8,7 @@ const {city, region} = location
 function Hero() {
     return   (
       <>
-      <section>
+      <section className='hero'>
         <div className='container'>
           <div className='info'>
             <h1>

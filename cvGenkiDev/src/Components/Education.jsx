@@ -1,10 +1,11 @@
 
 
-
-
-
 function Education() {
-    return   (<h2>Estudios Realizados</h2>)
+    return   (
+        <section>
+          <h2>Estudios Realizados</h2>
+        </section>
+        )
    }
 
 export default Education
