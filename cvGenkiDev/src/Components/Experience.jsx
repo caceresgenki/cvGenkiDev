@@ -1,12 +1,15 @@
-
+import React from 'react'
+import Section from './Section'
 
 
 function Experience() {
-    return   (
-        <section>
-          <h2>Experiencia</h2>
-        </section>
-        )
-   }
+   return (
+   <>
+     <Section title='Experiencia'>
+       <p>Contenido adicional aquí</p>  
+     </Section>
+   </>
+   )
+  }
 
 export default Experience

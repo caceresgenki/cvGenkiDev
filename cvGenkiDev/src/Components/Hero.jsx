@@ -1,5 +1,6 @@
 import React from 'react'
 import {basics} from '../cv.json'
+import Section from './Section'
 
 const {name, label, image, location, profiles, phone, email} = basics
 const {city, region} = location
@@ -8,7 +9,7 @@ const {city, region} = location
 function Hero() {
     return   (
       <>
-      <section className='hero'>
+      <Section className='hero'>
         <div className='container'>
           <div className='info'>
             <h1>
@@ -43,7 +44,7 @@ function Hero() {
 
         </div>
 
-      </section>
+      </Section>
       </>
         )
    }

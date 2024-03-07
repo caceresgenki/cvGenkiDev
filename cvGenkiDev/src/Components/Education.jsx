@@ -1,11 +1,15 @@
+import React from 'react'
+import Section from './Section'
 
 
 function Education() {
-    return   (
-        <section>
-          <h2>Estudios Realizados</h2>
-        </section>
-        )
-   }
+   return (
+   <>
+     <Section title='Estudios Realizados'>
+       <p>Contenido adicional aquí</p>  
+     </Section>
+   </>
+   )
+  }
 
 export default Education

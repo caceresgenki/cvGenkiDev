@@ -1,11 +1,15 @@
+import React from 'react'
+import Section from './Section'
 
 
 function Skills() {
-    return   (
-        <section>
-          <h2>Habilidades</h2>
-        </section>
-        )
-   }
+   return (
+   <>
+     <Section title='Habilidades'>
+       <p>Contenido adicional aquí</p>  
+     </Section>
+   </>
+   )
+  }
 
 export default Skills

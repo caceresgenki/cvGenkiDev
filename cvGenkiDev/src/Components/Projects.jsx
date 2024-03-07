@@ -1,12 +1,15 @@
-
+import React from 'react'
+import Section from './Section'
 
 
 function Projects() {
-    return   (
-        <section>
-          <h2>Proyectos</h2>
-        </section>
-        )
-   }
+   return (
+   <>
+     <Section title='Proyectos'>
+       <p>Contenido adicional aquí</p>  
+     </Section>
+   </>
+   )
+  }
 
 export default Projects
