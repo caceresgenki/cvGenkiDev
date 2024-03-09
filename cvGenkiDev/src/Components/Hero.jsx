@@ -1,9 +1,21 @@
 import React from 'react'
 import {basics} from '../cv.json'
 import Section from './Section'
+import Mail from './Icons/Mail'
+import Phone from './Icons/Phone'
+import LinkedIn from './Icons/LinkedIn'
+import GitHub from './Icons/GitHub'
+import WorldMap from './Icons/WorldMap'
+
 
 const {name, label, image, location, profiles, phone, email} = basics
 const {city, region} = location
+
+const SOCIAL_ICONS = {
+  GitHub,
+  LinkedIn,
+};
+
 
 
 function Hero() {
@@ -19,6 +31,7 @@ function Hero() {
               {label}
             </h2>
             <span>
+              <WorldMap />
               {city}, {region}
             </span>
             <footer>
@@ -30,10 +43,43 @@ function Hero() {
                     target='_blank'
                     rel='noopener noreferrer'
                     >
-                      Email Icono
+                      <Mail />
                   </a>
                 )
               }
+
+              {
+                phone && (
+                  <a
+                    href={`tel:${phone}`}
+                    title={`Llamar por teléfono a ${name} al número ${phone}`}
+                    target='_blank'
+                    rel='noopener noreferrer'
+                    >
+                      <Phone />
+                  </a>
+                )
+              }
+
+              {
+                profiles.map(({ network, url, username }) => {
+                  const Icon = SOCIAL_ICONS[network];
+                
+                  return (
+                    <a
+                      key={network}
+                      href={url}
+                      title={`Visitar el perfil de ${username} en ${network}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <Icon />
+                    </a>
+                  );
+                })
+              }
+
+
              
             </footer>
           </div>

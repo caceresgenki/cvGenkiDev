@@ -1,9 +1,17 @@
+
+/* Estilos Hero */
+
 .container {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
     gap: 1rem;
+    margin-top: 64px;
+  }
+
+  main {
+    margin: 0 24px;
   }
 
   .info {
@@ -32,6 +40,7 @@
     font-weight: 500;
     font-size: 1.1rem;
     text-wrap: balance;
+    letter-spacing: -0.025rem
   }
 
   img {
@@ -41,7 +50,7 @@
     border-radius: 16px;
   }
 
-  span {
+  p, span {
     color: #666;
     display: flex;
     align-items: center;
@@ -102,3 +111,55 @@
       margin: 0 auto;
     }
   }
+
+
+/* Estilos About */
+
+
+
+
+
+/* Estilos Experience */
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+article h3 {
+  font-weight: 500;
+  color: #111;
+}
+
+article a {
+  color: #111;
+}
+
+article a:hover {
+  text-decoration: underline;
+}
+
+article h4 {
+  color: #222;
+  font-weight: 400;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 4px;
+}
+
+time {
+  color: #555;
+  font-size: 0.85rem;
+  min-width: 102px;
+}
+
+@media (width <= 700px) {
+  time {
+    text-align: right;
+  }
+}

@@ -11,3 +11,10 @@ nav {
     font-size: 20px;
     font-weight: bold;
 }
+
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
