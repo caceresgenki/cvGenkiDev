@@ -74,16 +74,12 @@
       ]
     }],
     "education": [{
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Ingeniero de Software",
+      "institution": "Universidad de Oriente - Venezuela",
+      "url": "https://udo.education/",
+      "area": "Licenciado en Contaduría Pública",
       "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "startDate": "2010-03-01",
+      "endDate": "2016-12-01"
     }],
     "awards": [{
       "title": "Award",

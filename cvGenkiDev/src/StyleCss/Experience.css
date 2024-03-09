@@ -10,7 +10,7 @@
     background-color: transparent;
   }
 
-  article h3 {
+  .company h3 {
     font-weight: 500;
     color: #111;
   }
@@ -39,6 +39,10 @@
     color: #555;
     font-size: 0.85rem;
     min-width: 102px;
+  }
+
+  .descriptionExperience p {
+    letter-spacing: 0;
   }
   
   @media (width <= 700px) {

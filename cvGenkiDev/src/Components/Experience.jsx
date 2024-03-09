@@ -22,7 +22,7 @@ function Experience() {
                   <article>
                     <header>
                       <div>
-                        <h3>
+                        <h3 className='company'>
                           <a href={url} title={`Ver ${name}`} target="_blank">
                             {name}
                           </a>
@@ -31,7 +31,7 @@ function Experience() {
                       </div>
                       <time>{years}</time>
                     </header>
-                    <footer>
+                    <footer className='descriptionExperience'>
                       <p>{summary}</p>
                     </footer>
                   </article>

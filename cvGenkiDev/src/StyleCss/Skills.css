@@ -1,17 +1,11 @@
 
-div {
+.ulSkills {
   display: inline-flex;
   gap: 8px;
   flex-wrap: wrap;
 }
 
-/* ul {
-    display: inline-flex;
-    gap: 8px;
-    flex-wrap: wrap;
-  } */
-  
-li {
+.listSkills {
     align-items: center;
     background: #eee;
     border-radius: 6px;

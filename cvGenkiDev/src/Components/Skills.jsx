@@ -33,8 +33,8 @@ function Skills() {
           const Icon = SOCIAL_ICONS[iconName];
                 
           return (
-            <ul >
-              <li key={name}>
+            <ul key={name}>
+              <li className= 'listSkills'>
                 {Icon && <Icon />} <span>{nameReact}</span>
               </li>
             </ul>
