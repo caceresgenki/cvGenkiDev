@@ -6,6 +6,7 @@ import Phone from './Icons/Phone'
 import LinkedIn from './Icons/LinkedIn'
 import GitHub from './Icons/GitHub'
 import WorldMap from './Icons/WorldMap'
+import '../StyleCss/Hero.css'
 
 
 const {name, label, image, location, profiles, phone, email} = basics

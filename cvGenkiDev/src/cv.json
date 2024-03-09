@@ -20,6 +20,11 @@
           "network": "LinkedIn",
           "username": "Genki Cáceres",
           "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/"
+        },
+        {
+          "network": "GitHub",
+          "username": "Genki Cáceres",
+          "url": "https://github.com/caceresgenki"
         }
       ]
     },
@@ -122,31 +127,10 @@
         ]
       },
       {
-        "name": "Tailwind",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-        ]
-      },
-      {
-        "name": "TypeScript",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-        ]
-      },
-      {
         "name": "Node",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
-      },
-      {
-        "name": "MySQL",
-        "level": "Avanzado",
-        "keywords": [
-          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
         ]
       },
       {
@@ -164,14 +148,7 @@
         ]
       },
       {
-        "name": "Next.js",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-        ]
-      },
-      {
-        "name": "React",
+        "name": "iReact",
         "level": "Avanzado",
         "keywords": [
           "Desarrollo Web", "Frontend", "JavaScript Library", "UI"

@@ -1,6 +1,7 @@
 import React from 'react'
 import Section from './Section'
 import {work} from '../cv.json'
+import '../StyleCss/Experience.css'
 
 
 
@@ -17,7 +18,7 @@ function Experience() {
               const years = `${startYear} - ${endYear}`;
 
               return (
-                <li key={name + startDate}>
+                <li className= 'list-experience' key={name + startDate}>
                   <article>
                     <header>
                       <div>
