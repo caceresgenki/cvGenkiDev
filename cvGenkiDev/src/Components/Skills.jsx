@@ -8,10 +8,16 @@ import GitHub from './Icons/GitHub'
 import iReact from './Icons/iReact'
 import JavaScript from './Icons/JavaScript'
 import Node from './Icons/Node'
+import Office from './Icons/Office'
+import Excel from './Icons/Excel'
+import SAP from './Icons/SAP'
 import '../StyleCss/Skills.css'
 
 
 const SOCIAL_ICONS = {
+  Office,
+  Excel,
+  SAP,
   HTML,
   CSS,
   JavaScript,

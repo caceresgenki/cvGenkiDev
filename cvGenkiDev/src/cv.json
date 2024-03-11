@@ -62,21 +62,10 @@
         ]
       }
     ],
-    "volunteer": [{
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }],
     "education": [{
       "institution": "Universidad de Oriente - Venezuela",
       "url": "https://udo.education/",
-      "area": "Licenciado en Contaduría Pública",
+      "area": "Licenciado en Contaduría Pública.",
       "studyType": "Bachelor",
       "startDate": "2010-03-01",
       "endDate": "2016-12-01"
@@ -101,6 +90,27 @@
       "summary": "Description…"
     }],
     "skills": [
+      {
+        "name": "Office",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "Excel",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "SAP",
+        "level": "Master",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
       {
         "name": "HTML",
         "level": "Master",
