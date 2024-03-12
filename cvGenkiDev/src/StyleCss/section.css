@@ -11,6 +11,11 @@ section {
     font-size: 1.1rem;
   }
 
+  .nameTitle {
+    font-size: 1.3rem;
+    color: #111;
+  }
+
   @media (width <= 700px) {
     section {
       margin-bottom: 38px;

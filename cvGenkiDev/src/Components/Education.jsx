@@ -17,7 +17,7 @@ function Education() {
               const years = `${startYear} - ${endYear}`
 
               return (
-                <li>
+                <li key={institution}>
                   <article>
                     <header>
                       <div>
