@@ -27,7 +27,7 @@ function Education() {
                       <time>{years}</time>
                     </header>
 
-                    <footer>
+                    <footer className='carrer'>
                       <p>{area}</p>
                     </footer>
                   </article>

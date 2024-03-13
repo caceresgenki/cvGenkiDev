@@ -111,3 +111,19 @@
       margin: 0 auto;
     }
   }
+
+  @media print {
+    .noPrint {
+      display: none;
+    }
+  }
+
+  .print {
+    display: none;
+  }
+
+  @media print {
+    .print {
+      display: block;
+    }
+  }

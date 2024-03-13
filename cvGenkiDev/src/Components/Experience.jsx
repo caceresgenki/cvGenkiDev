@@ -9,7 +9,7 @@ import '../StyleCss/Experience.css'
 function Experience() {
    return (
    <>
-     <Section title='Experiencia'>
+     <Section title='Experiencia Laboral'>
         <ul>
           {work.map(
             ({ name, startDate, endDate, position, summary, highlights, url, id }) => {

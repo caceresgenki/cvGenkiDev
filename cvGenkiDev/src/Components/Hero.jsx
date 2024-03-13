@@ -17,7 +17,7 @@ const SOCIAL_ICONS = {
   LinkedIn,
 };
 
-
+const printInfo = [email, phone].filter(Boolean).join(" • ")
 
 function Hero() {
     return   (
@@ -35,7 +35,10 @@ function Hero() {
               <WorldMap />
               {city}, {region}
             </span>
-            <footer>
+            <footer className="print">
+              {printInfo}
+            </footer>
+            <footer className='noPrint'>
               {
                 email && (
                   <a

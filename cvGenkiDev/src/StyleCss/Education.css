@@ -18,6 +18,10 @@
     margin-bottom: 4px;
   }
 
+  .carrer p {
+    letter-spacing: 0;
+  }
+
   time {
     color: #555;
     font-size: 0.85rem;
