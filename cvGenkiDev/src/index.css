@@ -4,6 +4,12 @@ html {
   letter-spacing: -0.000006;
 }
 
+main {
+  position: relative;
+  min-height: 100vh;
+  padding-bottom: 50px;
+}
+
 body,
 figure {
   margin: 0;
