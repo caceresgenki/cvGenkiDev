@@ -4,31 +4,8 @@ import Section from './Section'
 import LinkedIn from './Icons/LinkedIn'
 import GitHub from './Icons/GitHub'
 import '../StyleCss/KeyboardManager.css'
-
-const {profiles} = basics
-
-
-const SOCIAL_ICONS = {
-  GitHub,
-  LinkedIn,
-};
-
-
-const profilesInfo = profiles.map(({ network, url }) => {
-  const icon = SOCIAL_ICONS[network]
-  const firstLetter = network[0].toUpperCase()
-
-  return {
-    id: network,
-    section: "Social",
-    title: `Visitar ${network}`,
-    url,
-    icon,
-    hotkey: `ctrl+${firstLetter}`
-  }
-})
-
-
+import { useState, useRef, useEffect } from "react";
+import NinjaKeys from './NinjaKeys'
 
 function KeyBoard() {
     return   (
@@ -55,7 +32,7 @@ function KeyBoard() {
               ></path>
             </svg>
           </div>
-          <ninja-keys></ninja-keys>
+          <NinjaKeys />
         </section>
         )
    }

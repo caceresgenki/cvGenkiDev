@@ -71,7 +71,14 @@
   }
 
   @media print {
-    .no-print {
+    #normalFooter {
+    
+      display: none;
+    }
+    nav {
+      display: none;
+    }
+    ninja-keys {
       display: none;
     }
   }
