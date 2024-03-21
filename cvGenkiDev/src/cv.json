@@ -7,7 +7,7 @@
       "email": "caceresgenki@gmail.com",
       "phone": "+34 688888888",
       "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/",
-      "summary": "Mas de 10 años de experiencia en procesos financieros, administrativos y contables. Actualmente desarrollador Frontend autodidacta. Vivo en Valencia, España. He trabajado en diferentes entornos: desde asesor/analista financiero para uno de los bancos mas grandes de Venezuela como es Banesco (Grupo Banesco Internacional - ABANCA en España) hasta analista de cuentas y procesos contables en Chile y España.",
+      "summary": "Mas de 10 años de experiencia en procesos financieros, administrativos y contables; generando mejoras en cada uno de ellos. Actualmente desarrollador Frontend autodidacta. Vivo en Valencia, España. He trabajado en diferentes entornos: desde asesor/analista financiero para uno de los bancos mas grandes de Venezuela como es Banesco (Grupo Banesco Internacional - ABANCA en España) hasta analista de cuentas y procesos contables en Chile y España.",
       "location": {
         "address": "",
         "postalCode": "46005",
@@ -30,36 +30,58 @@
     },
     "work": [
       {
-        "name": "midudev",
-        "position": "Divulgador sobre Programación Web",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2021-01-01",
+        "name": "DXC Technology (BANCA MARCH)",
+        "position": "Back Office de Depositaría y Renta Fija Nacional.",
+        "url": "https://dxc.com/es/es",
+        "startDate": "2021-12-01",
         "endDate": null,
-        "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-        "highlights": [
-          "Started the company"
-        ]
+        "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional.Apuntes contables derivados de ajustes y traspasos internos de la entidad."
       },
       {
-        "name": "Adevinta",
-        "position": "Lead Frontend Architect",
-        "url": "https://twitch.tv/midudev",
-        "startDate": "2016-06-01",
-        "endDate": "2022-09-01",
-        "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-        "highlights": [
-          "Started the company"
-        ]
+        "name": "DXC Technology (BANKINTER) - España",
+        "position": "Gestor de Domiciliaciones.",
+        "url": "https://dxc.com/es/es",
+        "startDate": "2020-12-21",
+        "endDate": "2021-11-30",
+        "summary": "Análisis, interpretación y gestión de documentación para las domiciliaciones. Preparación y tratamiento de información para la elaboración de bases de datos y sus documentos. Verificación de documentos y gestión con clientes y proveedores. Gestión de domiciliaciones ante empresas emisoras tanto públicas como privadas."
       },
       {
-        "name": "Hubii",
-        "position": "Senior FrontEnd Developer",
-        "startDate": "2011-03-01",
-        "endDate": "2016-05-01",
-        "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-        "highlights": [
-          "Started the company"
-        ]
+        "name": "L2G telecom - Argentina",
+        "position": "Especialista Administrativo.",
+        "url": "https://l2gtelecom.com/",
+        "startDate": "2020-03-01",
+        "endDate": "2020-08-15",
+        "summary": "Análisis administrativo y contable de facturas, nómina, ingresos, costos y gastos. Análisis y ejecución de contratos. Emisión de reportes mensuales y optimización de procesos."
+      },
+      {
+        "name": "Salinas y Fabres S.A. - Chile",
+        "position": "Analista Contable de Existencias y Costos.",
+        "url": "https://www.salfa.cl/",
+        "startDate": "2018-10-01",
+        "endDate": "2020-01-31",
+        "summary": "Análisis contable y elaboración de provisiones de obsolescencia. Emisión de reportes de gestión por cuenta de ingreso, costo y gasto. Revisión y análisis de la cuenta puente EMRF (Entrada de Mercancía - Recepción de Factura). Análisis de los procesos internos, de stock y cuentas relacionadas, incluyendo movimientos de mercancías, recepciones, salidas y costos. Cuadre preciso de existencias y sus auxiliares, junto con la revisión y análisis del proceso EMRF."
+      },
+      {
+        "name": "Despacho Contable - Chile",
+        "position": "Analista Contable.",
+        "startDate": "2018-03-01",
+        "endDate": "2018-08-31",
+        "summary": "Analista administrativo dedicado al registro y clasificación de transacciones financieras y contables. Elaboración y presentación de declaraciones fiscales. Preparación de estados financieros, conciliación de cuentas bancarias y análisis de cuentas contables. Realización de análisis de los estados financieros, destacando los cambios más relevantes."
+      },      
+      {
+        "name": "Contable Autónomo - Venezuela",
+        "position": "Contable.",
+        "startDate": "2015-07-01",
+        "endDate": "2018-01-31",
+        "summary": "Gestor Contable involucrado en el análisis, registro y clasificación de transacciones financieras. Realización de auditorías y propuestas de mejoras a procesos administrativos. Elaboración de estados financieros, conciliación de cuentas bancarias y gestión de cuentas por cobrar y por pagar. Preparación y presentación de declaraciones fiscales, análisis financiero para brindar información clave en la toma de decisiones."
+      },
+      {
+        "name": "Banesco Banco Universal",
+        "position": "Ejecutivo Comercial.",
+        "url": "https://www.banesco.com/",
+        "startDate": "2007-03-07",
+        "endDate": "2015-07-15",
+        "summary": "Analista y gestor de productos financieros, análisis de situación financiera de clientes y registro de productos financieros. Análisis de crédito basado en la situación financiera de los clientes, documentación y registro de productos financieros. Contribución al desarrollo y éxito de una gama diversa de productos financieros, asegurando el cumplimiento riguroso de los procesos documentales. Captación de asociados comerciales para el banco."
       }
     ],
     "education": [{
@@ -98,67 +120,40 @@
         ]
       },
       {
-        "name": "Excel",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
+        "name": "Excel"
       },
       {
-        "name": "SAP",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
+        "name": "WebApps"
       },
       {
-        "name": "HTML",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
-        ]
+        "name": "VS Code"
       },
       {
-        "name": "CSS",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Diseño Responsive"
-        ]
+        "name": "Software de gestión - ERP"
       },
       {
-        "name": "JavaScript",
-        "level": "Master",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-        ]
+        "name": "SAP"
       },
       {
-        "name": "Node",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-        ]
+        "name": "HTML"
       },
       {
-        "name": "Git",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente"
-        ]
+        "name": "CSS"
       },
       {
-        "name": "GitHub",
-        "level": "Avanzado",
-        "keywords": [
-          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-        ]
+        "name": "JavaScript"
       },
       {
-        "name": "iReact",
-        "level": "Avanzado",
-        "keywords": [
-          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-        ]
+        "name": "Node"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "GitHub"
+      },
+      {
+        "name": "iReact"
       }
     ],
     "languages": [

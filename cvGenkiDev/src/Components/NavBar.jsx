@@ -9,7 +9,7 @@ function NavBar() {
     <>
       <nav className='navbar'>
         <div className='logo'>{`<GC/>`}</div>
-        <div className='moon'>
+        <div hidden className='moon'>
           {moon}
         </div>
       </nav>
