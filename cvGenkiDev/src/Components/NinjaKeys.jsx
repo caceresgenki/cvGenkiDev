@@ -64,6 +64,7 @@ function NinjaKeys() {
         height="16"
         width="16"
         viewBox="0 0 24 24"
+        style="margin-right: 8px;"
         xmlns="http://www.w3.org/2000/svg"
         ><title>LinkedIn</title><path
           fill="currentColor"
