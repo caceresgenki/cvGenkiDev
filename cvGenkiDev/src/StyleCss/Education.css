@@ -1,4 +1,10 @@
+.carrer {
+  display: block;
+}
 
+.carrer div:first-child {
+  margin-bottom: 6px;
+}
 
 .listEducation {
     display: flex;
@@ -20,6 +26,7 @@
 
   .carrer p {
     letter-spacing: 0;
+
   }
 
   time {

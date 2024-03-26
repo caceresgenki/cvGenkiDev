@@ -17,6 +17,11 @@
       },
       "profiles": [
         {
+          "network": "Whatsapp",
+          "username": "Genki Cáceres",
+          "url": "https://wa.me/34617646155"
+        },
+        {
           "network": "LinkedIn",
           "username": "Genki Cáceres",
           "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/"
@@ -35,7 +40,7 @@
         "url": "https://dxc.com/es/es",
         "startDate": "2021-12-01",
         "endDate": null,
-        "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional.Apuntes contables derivados de ajustes y traspasos internos de la entidad."
+        "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional. Apuntes contables derivados de ajustes y traspasos internos de la entidad."
       },
       {
         "name": "DXC Technology (BANKINTER) - España",
@@ -87,10 +92,11 @@
     "education": [{
       "institution": "Universidad de Oriente - Venezuela",
       "url": "https://udo.education/",
-      "area": "Licenciado en Contaduría Pública.",
+      "area": "Lcdo. en Contaduría Pública (Grado en Contabilidad y Finanzas).",
       "studyType": "Bachelor",
       "startDate": "2010-03-01",
-      "endDate": "2016-12-01"
+      "endDate": "2016-12-01",
+      "summary": "Como graduado de esta carrera se puede trabajar como contables, auditores internos o externos, consultores financieros, analistas contables, entre otros roles relacionados con la gestión y control financiero."
     }],
     "awards": [{
       "title": "Award",

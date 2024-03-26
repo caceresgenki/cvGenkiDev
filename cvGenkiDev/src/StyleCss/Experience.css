@@ -38,7 +38,8 @@
   time {
     color: #555;
     font-size: 0.85rem;
-    min-width: 102px;
+    min-width: 128px;
+    text-align: end;
   }
 
   .descriptionExperience p {

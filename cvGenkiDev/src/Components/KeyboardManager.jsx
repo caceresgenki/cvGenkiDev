@@ -1,11 +1,22 @@
 import 'ninja-keys'
-import { basics } from "../cv.json"
-import Section from './Section'
-import LinkedIn from './Icons/LinkedIn'
-import GitHub from './Icons/GitHub'
 import '../StyleCss/KeyboardManager.css'
-import { useState, useRef, useEffect } from "react";
 import NinjaKeys from './NinjaKeys'
+
+const footerButton = document.getElementById("footerButton")
+footerButton?.addEventListener("click", () => {
+  var event = new KeyboardEvent("keydown", {
+    key: "K",
+    code: "KeyK",
+    keyCode: 75,
+    which: 75,
+    ctrlKey: true,
+    altKey: false,
+    shiftKey: false,
+    metaKey: false
+  })
+
+  document.dispatchEvent(event)
+})
 
 function KeyBoard() {
     return   (

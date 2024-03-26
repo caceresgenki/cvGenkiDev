@@ -6,6 +6,7 @@ import Phone from './Icons/Phone'
 import LinkedIn from './Icons/LinkedIn'
 import GitHub from './Icons/GitHub'
 import WorldMap from './Icons/WorldMap'
+import Whatsapp from './Icons/Whatsapp'
 import '../StyleCss/Hero.css'
 
 
@@ -15,6 +16,7 @@ const {city, region} = location
 const SOCIAL_ICONS = {
   GitHub,
   LinkedIn,
+  Whatsapp,
 };
 
 const printInfo = [email, phone].filter(Boolean).join(" • ")

@@ -4,18 +4,21 @@ import {work} from '../cv.json'
 import '../StyleCss/Experience.css'
 
 
-
-
 function Experience() {
    return (
    <>
      <Section title='Experiencia Laboral'>
         <ul>
           {work.map(
-            ({ name, startDate, endDate, position, summary, highlights, url, id }) => {
+            ({ name, startDate, endDate, position, summary, url }) => {
+              const startMonth = new Date(startDate).getMonth()+1+"/" ;
+              const endMonth = endDate != null ? new Date(endDate).getMonth()+1+"/" : "";
+              
               const startYear = new Date(startDate).getFullYear();
               const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
-              const years = `${startYear} - ${endYear}`;
+              const years = `${startMonth}${startYear} - ${endMonth}${endYear}`;
+
+             
 
               return (
                 <li className= 'list-experience' key={name + startDate}>
@@ -32,6 +35,7 @@ function Experience() {
                       <time>{years}</time>
                     </header>
                     <footer className='descriptionExperience'>
+
                       <p>{summary}</p>
                     </footer>
                   </article>

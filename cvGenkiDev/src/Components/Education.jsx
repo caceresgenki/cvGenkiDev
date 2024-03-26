@@ -10,7 +10,7 @@ function Education() {
      <Section title='Estudios Realizados'>
         <ul className='listEducation'>
           {
-            education.map(({ institution, startDate, endDate, area, url }) => {
+            education.map(({ institution, startDate, endDate, area, url, summary }) => {
               const startYear = new Date(startDate).getFullYear()
               const endYear =
                 endDate != null ? new Date(endDate).getFullYear() : "Actual"
@@ -25,10 +25,12 @@ function Education() {
                       </div>
 
                       <time>{years}</time>
+                      
                     </header>
 
                     <footer className='carrer'>
-                      <p>{area}</p>
+                      <div><p>{area}</p></div>
+                      <div><p>{summary}</p></div>
                     </footer>
                   </article>
                 </li>

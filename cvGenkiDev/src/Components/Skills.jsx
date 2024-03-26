@@ -11,6 +11,7 @@ import Node from './Icons/Node'
 import Office from './Icons/Office'
 import Excel from './Icons/Excel'
 import SAP from './Icons/SAP'
+import WepApps from './Icons/WepApps'
 import '../StyleCss/Skills.css'
 
 
@@ -24,6 +25,7 @@ const SOCIAL_ICONS = {
   iReact,
   Node,
   Git,
+  WepApps,
   GitHub,
 };
 
