@@ -16,12 +16,15 @@ function Education() {
                 endDate != null ? new Date(endDate).getFullYear() : "Actual"
               const years = `${startYear} - ${endYear}`
 
+              const urlUniversity = url ? <a title={`Ver ${institution}`} href={url} target="_blank">web</a> : "";
+
               return (
                 <li key={institution}>
                   <article>
                     <header>
                       <div>
-                        <h3 className='nameInstitution'><a href={url} title={`Ver ${institution}`} target="_blank">{institution}</a></h3>
+                        <h3 className='nameInstitution'>{institution}{urlUniversity}
+                        </h3>
                       </div>
 
                       <time>{years}</time>

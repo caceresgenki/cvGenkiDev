@@ -11,8 +11,17 @@
     page-break-inside: avoid;
   }
 
-  .company h3 {
+  .detailCompany h3 {
+
+  }
+
+  .company a {
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    font-size: 0.7rem;
     font-weight: 500;
+    padding: 0.2rem 0.4rem;
     }
 
   article a {
@@ -38,7 +47,7 @@
   time {
     color: #555;
     font-size: 0.85rem;
-    min-width: 128px;
+    min-width: 100px;
     text-align: end;
   }
 

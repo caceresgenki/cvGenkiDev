@@ -18,17 +18,16 @@ function Experience() {
               const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
               const years = `${startMonth}${startYear} - ${endMonth}${endYear}`;
 
-             
+              const urlCompany = url ? <a className='urlWeb' title={`Ver ${name}`} href={url} target="_blank">web</a> : "";
+  
 
+              
               return (
                 <li className= 'list-experience' key={name + startDate}>
                   <article>
                     <header>
                       <div>
-                        <h3 className='company'>
-                          <a href={url} title={`Ver ${name}`} target="_blank">
-                            {name}
-                          </a>
+                        <h3 className='company' >{name} {urlCompany}
                         </h3>
                         <h4>{position}</h4>
                       </div>

@@ -17,6 +17,16 @@
     color: #111;
   }
 
+  .nameInstitution a {
+    margin-left: 8px;
+    background: #eee;
+    border-radius: 6px;
+    color: black;
+    font-size: 0.7rem;
+    font-weight: 500;
+    padding: 0.2rem 0.4rem;
+    }
+
   header {
     display: flex;
     justify-content: space-between;

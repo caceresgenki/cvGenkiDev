@@ -43,7 +43,7 @@
         "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional. Apuntes contables derivados de ajustes y traspasos internos de la entidad."
       },
       {
-        "name": "DXC Technology (BANKINTER) - España",
+        "name": "DXC Technology (BANKINTER)",
         "position": "Gestor de Domiciliaciones.",
         "url": "https://dxc.com/es/es",
         "startDate": "2020-12-21",
@@ -51,7 +51,7 @@
         "summary": "Análisis, interpretación y gestión de documentación para las domiciliaciones. Preparación y tratamiento de información para la elaboración de bases de datos y sus documentos. Verificación de documentos y gestión con clientes y proveedores. Gestión de domiciliaciones ante empresas emisoras tanto públicas como privadas."
       },
       {
-        "name": "L2G telecom - Argentina",
+        "name": "L2G telecom",
         "position": "Especialista Administrativo.",
         "url": "https://l2gtelecom.com/",
         "startDate": "2020-03-01",
@@ -59,7 +59,7 @@
         "summary": "Análisis administrativo y contable de facturas, nómina, ingresos, costos y gastos. Análisis y ejecución de contratos. Emisión de reportes mensuales y optimización de procesos."
       },
       {
-        "name": "Salinas y Fabres S.A. - Chile",
+        "name": "Salinas y Fabres S.A.",
         "position": "Analista Contable de Existencias y Costos.",
         "url": "https://www.salfa.cl/",
         "startDate": "2018-10-01",
@@ -67,15 +67,17 @@
         "summary": "Análisis contable y elaboración de provisiones de obsolescencia. Emisión de reportes de gestión por cuenta de ingreso, costo y gasto. Revisión y análisis de la cuenta puente EMRF (Entrada de Mercancía - Recepción de Factura). Análisis de los procesos internos, de stock y cuentas relacionadas, incluyendo movimientos de mercancías, recepciones, salidas y costos. Cuadre preciso de existencias y sus auxiliares, junto con la revisión y análisis del proceso EMRF."
       },
       {
-        "name": "Despacho Contable - Chile",
+        "name": "Despacho Contable",
         "position": "Analista Contable.",
+        "url": "",
         "startDate": "2018-03-01",
         "endDate": "2018-08-31",
         "summary": "Analista administrativo dedicado al registro y clasificación de transacciones financieras y contables. Elaboración y presentación de declaraciones fiscales. Preparación de estados financieros, conciliación de cuentas bancarias y análisis de cuentas contables. Realización de análisis de los estados financieros, destacando los cambios más relevantes."
       },      
       {
-        "name": "Contable Autónomo - Venezuela",
-        "position": "Contable.",
+        "name": "Contable Autónomo",
+        "position": "Contable Independiente.",
+        "url": "",
         "startDate": "2015-07-01",
         "endDate": "2018-01-31",
         "summary": "Gestor Contable involucrado en el análisis, registro y clasificación de transacciones financieras. Realización de auditorías y propuestas de mejoras a procesos administrativos. Elaboración de estados financieros, conciliación de cuentas bancarias y gestión de cuentas por cobrar y por pagar. Preparación y presentación de declaraciones fiscales, análisis financiero para brindar información clave en la toma de decisiones."
@@ -150,16 +152,10 @@
         "name": "JavaScript"
       },
       {
-        "name": "Node"
-      },
-      {
-        "name": "Git"
+        "name": "iReact"
       },
       {
         "name": "GitHub"
-      },
-      {
-        "name": "iReact"
       }
     ],
     "languages": [
