@@ -24,7 +24,7 @@ function KeyBoard() {
           <footer id="normalFooter" className="no-print">
             Pulsa <kbd>Cmd</kbd> ó <kbd>Ctrl</kbd>+ <kbd>K</kbd> para abrir la paleta de comandos.
           </footer>
-          <div id="footerButton" className="no-print">
+          {/* <div id="footerButton" className="no-print">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="icon icon-tabler icon-tabler-command"
@@ -42,7 +42,7 @@ function KeyBoard() {
                 d="M7 9a2 2 0 1 1 2 -2v10a2 2 0 1 1 -2 -2h10a2 2 0 1 1 -2 2v-10a2 2 0 1 1 2 2h-10"
               ></path>
             </svg>
-          </div>
+          </div> */}
           <NinjaKeys />
         </section>
         )
