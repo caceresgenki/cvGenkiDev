@@ -3,7 +3,7 @@
     "basics": {
       "name": "Genki Cáceres",
       "label": "Analista de procesos administrativos y contables con mas de 10 años de experiencia y programador autodidacta.",
-      "image": "https://media.licdn.com/dms/image/C4D03AQHwUnxv3oAngQ/profile-displayphoto-shrink_200_200/0/1601724532662?e=1715212800&v=beta&t=Y7obAv4Dtx7r4jTF4jZ2jAK6cFCJ3nL-QNLYDU2sPtE",
+      "image": null,
       "email": "caceresgenki@gmail.com",
       "phone": "+34 617646155",
       "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/",
@@ -39,7 +39,7 @@
         "position": "Back Office de Depositaría y Renta Fija Nacional.",
         "url": "https://dxc.com/es/es",
         "startDate": "2021-12-01",
-        "endDate": null,
+        "endDate": "2024-05-03",
         "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional. Apuntes contables derivados de ajustes y traspasos internos de la entidad."
       },
       {
@@ -153,6 +153,9 @@
       },
       {
         "name": "iReact"
+      },
+      {
+        "name": "Cobol*"
       },
       {
         "name": "GitHub"

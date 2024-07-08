@@ -8,9 +8,11 @@ import GitHub from './Icons/GitHub'
 import WorldMap from './Icons/WorldMap'
 import Whatsapp from './Icons/Whatsapp'
 import '../StyleCss/Hero.css'
+import Image from '../Image/ImageProfile.jpg'
 
 
-const {name, label, image, location, profiles, phone, email} = basics
+
+const {name, label, location, profiles, phone, email} = basics
 const {city, region} = location
 
 const SOCIAL_ICONS = {
@@ -91,7 +93,7 @@ function Hero() {
           </div>
 
           <figure>
-            <img src={image} alt={name} />
+            <img src={Image} alt={name} />
           </figure>
 
         </div>
