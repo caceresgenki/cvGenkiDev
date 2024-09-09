@@ -36,6 +36,14 @@
     "work": [
       {
         "name": "DXC Technology (BANCA MARCH)",
+        "position": "Back Office Valores y Fondos.",
+        "url": "https://dxc.com/es/es",
+        "startDate": "2024-07-15",
+        "endDate": null,
+        "summary": "Gestión y análisis de operaciones de compra y venta de valores y fondos de inversión. Atención y soporte a los asesores financieros en consultas sobre operaciones y fondos. Revisión de cuentas y seguimiento de vencimientos de Órdenes y Traspasos de fondos. Colaboración en proyectos de automatización y mejoras de procesos operativos. Gestión de incidencias operativas y coordinación con otros departamentos para su resolución."
+      },
+      {
+        "name": "DXC Technology (BANCA MARCH)",
         "position": "Back Office de Depositaría y Renta Fija Nacional.",
         "url": "https://dxc.com/es/es",
         "startDate": "2021-12-01",
