@@ -1,0 +1,19 @@
+
+{
+    "Hero": {
+      "Title": "Bienvenido a Nuestro Sitio",
+      "Mensaje": "Estamos aquí para ayudarte a alcanzar tus objetivos."
+    },
+    "Form": {
+      "Title": "Contáctanos",
+      "Name": "Nombre",
+      "Email": "Correo Electronico",
+      "Phone": "Número Teléfonico",
+      "Message": "Mensaje",
+      "Send": "Enviar"
+    },
+    "Cookies": {
+      "Message": "Este sitio utiliza cookies para mejorar tu experiencia.",
+      "Accept": "Aceptar"
+    }
+  }

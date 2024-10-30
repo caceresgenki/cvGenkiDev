@@ -6,26 +6,22 @@ import Git from './Icons/Git'
 import HTML from './Icons/HTML'
 import GitHub from './Icons/GitHub'
 import iReact from './Icons/iReact'
-import JavaScript from './Icons/JavaScript'
+import JS from './Icons/JavaScript'
 import Node from './Icons/Node'
 import Office from './Icons/Office'
 import Excel from './Icons/Excel'
-import SAP from './Icons/SAP'
-import WepApps from './Icons/WepApps'
 import '../StyleCss/Skills.css'
 
 
 const SOCIAL_ICONS = {
   Office,
   Excel,
-  SAP,
   HTML,
   CSS,
-  JavaScript,
+  JS,
   iReact,
   Node,
   Git,
-  WepApps,
   GitHub,
 };
 
