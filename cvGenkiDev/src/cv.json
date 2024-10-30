@@ -139,31 +139,22 @@
         "name": "Excel"
       },
       {
-        "name": "WebApps"
-      },
-      {
-        "name": "VS Code"
-      },
-      {
-        "name": "Software de gestión - ERP"
-      },
-      {
-        "name": "SAP"
-      },
-      {
         "name": "HTML"
       },
       {
         "name": "CSS"
       },
       {
-        "name": "JavaScript"
+        "name": "JS"
       },
       {
         "name": "iReact"
       },
       {
-        "name": "Cobol*"
+        "name": "Next.js"
+      },
+      {
+        "name": "Cobol"
       },
       {
         "name": "GitHub"
