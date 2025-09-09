@@ -1,6 +1,6 @@
 import Section from './Section'
 import {skills} from '../cv.json'
-import CSS from './Icons/CSS'
+import CSS from './Icons/Css'
 import HTML from './Icons/HTML'
 import GitHub from './Icons/GitHub'
 import Tailwind from './Icons/Tailwind'
