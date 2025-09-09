@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Section from './Section'
 import GitHub from './Icons/GitHub'
 import {projects} from '../cv.json'

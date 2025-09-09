@@ -1,4 +1,3 @@
-import React from 'react'
 import {basics} from '../cv.json'
 import Section from './Section'
 import Mail from './Icons/Mail'

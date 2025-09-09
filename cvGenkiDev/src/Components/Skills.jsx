@@ -1,13 +1,11 @@
-import React from 'react'
 import Section from './Section'
 import {skills} from '../cv.json'
 import CSS from './Icons/CSS'
-import Git from './Icons/Git'
 import HTML from './Icons/HTML'
 import GitHub from './Icons/GitHub'
+import Tailwind from './Icons/Tailwind'
 import iReact from './Icons/iReact'
 import JS from './Icons/JavaScript'
-import Node from './Icons/Node'
 import Office from './Icons/Office'
 import Excel from './Icons/Excel'
 import '../StyleCss/Skills.css'
@@ -19,9 +17,8 @@ const SOCIAL_ICONS = {
   HTML,
   CSS,
   JS,
+  Tailwind,
   iReact,
-  Node,
-  Git,
   GitHub,
 };
 

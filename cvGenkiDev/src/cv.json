@@ -36,11 +36,11 @@
     "work": [
       {
         "name": "DXC Technology (BANCA MARCH)",
-        "position": "Back Office de Depositaría y Renta Fija Nacional.",
+        "position": "Back Office Valores y Fondos.",
         "url": "https://dxc.com/es/es",
-        "startDate": "2021-06-15",
+        "startDate": "2024-07-15",
         "endDate": null,
-        "summary": "Análisis de procesos administrativos para la emisión de títulos de valores. Ejecución de operaciones de compra y venta de divisas y títulos de valores de Renta Fija. Revisión, conciliación y ajustes contables de posiciones de títulos de valores entre el banco y el broker. Emisiones de transferencias a nivel nacional e internacional. Apuntes contables derivados de ajustes y traspasos internos de la entidad."
+        "summary": "Gestión y análisis de operaciones de compra y venta de valores y fondos de inversión. Atención y soporte a los asesores financieros en consultas sobre operaciones y fondos. Revisión de cuentas y seguimiento de vencimientos de Órdenes y Traspasos de fondos. Colaboración en proyectos de automatización y mejoras de procesos operativos. Gestión de incidencias operativas y coordinación con otros departamentos para su resolución."
       },
       {
         "name": "DXC Technology (BANCA MARCH)",
@@ -148,13 +148,13 @@
         "name": "JS"
       },
       {
+        "name": "Tailwind"
+      },
+      {
         "name": "iReact"
       },
       {
         "name": "Next.js"
-      },
-      {
-        "name": "Cobol"
       },
       {
         "name": "GitHub"

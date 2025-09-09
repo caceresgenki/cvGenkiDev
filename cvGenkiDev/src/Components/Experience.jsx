@@ -1,4 +1,3 @@
-import React from 'react'
 import Section from './Section'
 import {work} from '../cv.json'
 import '../StyleCss/Experience.css'
