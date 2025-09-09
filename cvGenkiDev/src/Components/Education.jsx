@@ -6,7 +6,7 @@ import '../StyleCss/Education.css'
 function Education() {
    return (
    <>
-     <Section title='Estudios Realizados'>
+     <Section id='education' title='Estudios Realizados'>
         <ul className='listEducation'>
           {
             education.map(({ institution, startDate, endDate, area, url, summary }) => {

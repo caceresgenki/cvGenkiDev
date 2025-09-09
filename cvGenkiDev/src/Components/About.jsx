@@ -7,7 +7,7 @@
 function About() {
     return (
     <>
-      <Section title='Sobre mí'>
+      <Section id='about' title='Sobre mí'>
         <p>{summary}</p>  
       </Section>
     </>

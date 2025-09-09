@@ -1,16 +1,65 @@
+import { useState } from 'react'
 import '../StyleCss/navBar.css'
 
-const moon = (<svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-moon" width="24" height="20" viewBox="0 0 24 24" strokeWidth="1.5" stroke="#000000" fill="none" strokeLinecap="round" strokeLinejoin="round">
-                <path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" /> </svg>)
 
 function NavBar() {
+    const [isMenuOpen, setIsMenuOpen] = useState(false);
+
+    const scrollToSection = (sectionId) => {
+        const element = document.getElementById(sectionId);
+        if (element) {
+            element.scrollIntoView({ 
+                behavior: 'smooth',
+                block: 'start' 
+            });
+        }
+        setIsMenuOpen(false); // Close menu after navigation
+    };
+
+    const toggleMenu = () => {
+        setIsMenuOpen(!isMenuOpen);
+    };
+
     return   (
     <>
       <nav className='navbar'>
-        <div className='logo'>{`<GC/>`}</div>
-        <div hidden className='moon'>
-          {moon}
+        <div><a className='logo' href="#hero" onClick={(e) => { e.preventDefault(); scrollToSection('hero'); }}>{`<GC/>`}</a></div>
+        
+        {/* Desktop Menu */}
+        <div className='nav-menu desktop-menu'>
+          <ul>
+              <li><a href="#hero" onClick={(e) => { e.preventDefault(); scrollToSection('hero'); }}>Inicio</a></li>
+              <li><a href="#about" onClick={(e) => { e.preventDefault(); scrollToSection('about'); }}>Sobre mí</a></li>
+              <li><a href="#experience" onClick={(e) => { e.preventDefault(); scrollToSection('experience'); }}>Experiencia</a></li>
+              <li><a href="#education" onClick={(e) => { e.preventDefault(); scrollToSection('education'); }}>Educación</a></li>
+              <li><a href="#skills" onClick={(e) => { e.preventDefault(); scrollToSection('skills'); }}>Habilidades</a></li>
+          </ul>
         </div>
+
+        {/* Mobile Menu Button */}
+        <button 
+          className={`mobile-menu-button ${isMenuOpen ? 'active' : ''}`}
+          onClick={toggleMenu}
+          aria-label="Toggle mobile menu"
+        >
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        {/* Mobile Menu Overlay */}
+        <div className={`mobile-menu-overlay ${isMenuOpen ? 'active' : ''}`}>
+          <div className='mobile-menu'>
+            <ul>
+              <li><a href="#hero" onClick={(e) => { e.preventDefault(); scrollToSection('hero'); }}>Inicio</a></li>
+              <li><a href="#about" onClick={(e) => { e.preventDefault(); scrollToSection('about'); }}>Sobre mí</a></li>
+              <li><a href="#experience" onClick={(e) => { e.preventDefault(); scrollToSection('experience'); }}>Experiencia</a></li>
+              <li><a href="#education" onClick={(e) => { e.preventDefault(); scrollToSection('education'); }}>Educación</a></li>
+              <li><a href="#skills" onClick={(e) => { e.preventDefault(); scrollToSection('skills'); }}>Habilidades</a></li>
+            </ul>
+          </div>
+        </div>
+
       </nav>
     </>)
    }

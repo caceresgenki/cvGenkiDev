@@ -6,7 +6,7 @@ import '../StyleCss/Experience.css'
 function Experience() {
    return (
    <>
-     <Section title='Experiencia Laboral'>
+     <Section id='experience' title='Experiencia Laboral'>
         <ul>
           {work.map(
             ({ name, startDate, endDate, position, summary, url }) => {

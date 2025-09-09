@@ -25,7 +25,7 @@ const printInfo = [email, phone].filter(Boolean).join(" • ")
 function Hero() {
     return   (
       <>
-      <Section className='hero'>
+      <Section id='hero' className='hero'>
         <div className='container'>
           <div className='info'>
             <h1>

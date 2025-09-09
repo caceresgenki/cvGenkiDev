@@ -25,7 +25,7 @@ const SOCIAL_ICONS = {
 function Skills() {
    return (
    <>
-     <Section title='Habilidades'>
+     <Section id='skills' title='Habilidades'>
         <div className='ulSkills'>
         {
           skills.map(({ name }) => {

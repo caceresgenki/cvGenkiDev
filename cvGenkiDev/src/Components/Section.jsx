@@ -1,9 +1,9 @@
 
 
 
-function Section({ title, children }) {
+function Section({ title, children, id, className }) {
   return (
-    <section>
+    <section id={id} className={className}>
       {title && <h2 className="nameTitle">{title}</h2>}
       <div>{children}</div>
     </section>
