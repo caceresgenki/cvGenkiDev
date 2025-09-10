@@ -1,6 +1,6 @@
 import Section from './Section'
-import {work} from '../cv.json'
-import '../StyleCss/Experience.css'
+import {work} from '../../cv.json'
+import '../../StyleCss/Experience.css'
 
 
 function Experience() {

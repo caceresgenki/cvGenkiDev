@@ -1,13 +1,13 @@
-import {basics} from '../cv.json'
+import {basics} from '../../cv.json'
 import Section from './Section'
-import Mail from './Icons/Mail'
-import Phone from './Icons/Phone'
-import LinkedIn from './Icons/LinkedIn'
-import GitHub from './Icons/GitHub'
-import WorldMap from './Icons/WorldMap'
-import Whatsapp from './Icons/Whatsapp'
-import '../StyleCss/Hero.css'
-import Image from '../Image/ImageProfile.jpg'
+import Mail from '../Icons/Mail'
+import Phone from '../Icons/Phone'
+import LinkedIn from '../Icons/LinkedIn'
+import GitHub from '../Icons/GitHub'
+import WorldMap from '../Icons/WorldMap'
+import Whatsapp from '../Icons/Whatsapp'
+import '../../StyleCss/Hero.css'
+import Image from '../../Image/ImageProfile.jpg'
 
 
 

@@ -1,10 +1,10 @@
-import NavBar from '../src/Components/NavBar'
-import About from '../src/Components/About'
-import Education from '../src/Components/Education'
-import Experience from '../src/Components/Experience'
-import Hero from '../src/Components/Hero'
-import Skills from '../src/Components/Skills'
-import KeyboardManager from '../src/Components/KeyboardManager'
+import NavBar from '../src/Components/Components/NavBar'
+import About from '../src/Components/Components/About'
+import Education from '../src/Components/Components/Education'
+import Experience from '../src/Components/Components/Experience'
+import Hero from '../src/Components/Components/Hero'
+import Skills from '../src/Components/Components/Skills'
+import KeyboardManager from '../src/Components/Components/KeyboardManager'
 
 function App() {
  return   (

@@ -1,8 +1,8 @@
 
 import Section from './Section'
-import GitHub from './Icons/GitHub'
-import {projects} from '../cv.json'
-import '../StyleCss/Projects.css'
+import GitHub from '../Icons/GitHub'
+import {projects} from '../../cv.json'
+import '../../StyleCss/Projects.css'
 
 
 function Projects() {

@@ -1,6 +1,6 @@
 import Section from './Section'
-import {education} from '../cv.json'
-import '../StyleCss/Education.css'
+import {education} from '../../cv.json'
+import '../../StyleCss/Education.css'
 
 
 function Education() {

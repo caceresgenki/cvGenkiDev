@@ -1,5 +1,5 @@
 import 'ninja-keys'
-import '../StyleCss/KeyboardManager.css'
+import '../../StyleCss/KeyboardManager.css'
 import NinjaKeys from './NinjaKeys'
 import ButtonCtrl from './ButtonCtrl'
 

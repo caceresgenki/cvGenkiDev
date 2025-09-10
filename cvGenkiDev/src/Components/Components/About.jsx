@@ -1,5 +1,5 @@
  import Section from './Section'
- import {basics} from '../cv.json'
+ import {basics} from '../../cv.json'
 
  const {summary} = basics
  

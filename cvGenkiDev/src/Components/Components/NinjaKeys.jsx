@@ -1,8 +1,8 @@
 import { useState, useRef, useEffect } from "react";
 import 'ninja-keys'
-import { basics } from "../cv.json"
-import LinkedIn from './Icons/LinkedIn'
-import GitHub from './Icons/GitHub'
+import { basics } from "../../cv.json"
+import LinkedIn from '../Icons/LinkedIn'
+import GitHub from '../Icons/GitHub'
 
 
 const {profiles} = basics
