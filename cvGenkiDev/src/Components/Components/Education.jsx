@@ -22,7 +22,9 @@ function Education() {
                   <article>
                     <header>
                       <div>
-                        <h3 className='nameInstitution'>{institution}{urlUniversity}
+                        <h3 className='nameInstitution noPrint'>{institution}{urlUniversity}
+                        </h3>
+                        <h3 className='nameInstitution print'>{institution}{urlUniversity}
                         </h3>
                       </div>
 

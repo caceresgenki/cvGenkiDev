@@ -26,7 +26,9 @@ function Experience() {
                   <article>
                     <header>
                       <div>
-                        <h3 className='company' >{name} {urlCompany}
+                        <h3 className='company noPrint' >{name} {urlCompany}
+                        </h3>
+                        <h3 className='company print' >{name}
                         </h3>
                         <h4>{position}</h4>
                       </div>

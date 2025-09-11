@@ -11,10 +11,6 @@
     page-break-inside: avoid;
   }
 
-  .detailCompany h3 {
-
-  }
-
   .company a {
     background: #eee;
     border-radius: 6px;
@@ -47,7 +43,7 @@
   time {
     color: #555;
     font-size: 0.85rem;
-    min-width: 100px;
+    min-width: 128px;
     text-align: end;
   }
 
@@ -58,5 +54,6 @@
   @media (width <= 700px) {
     time {
       text-align: right;
+      min-width: 100px;
     }
   }
