@@ -97,7 +97,7 @@
         ]
       },
       {
-        "name": "DXC Technology (BANKINTER)",
+        "name": "DXC Technology (BANKINTER) - España",
         "position": "Business Process Analyst - Gestor de Domiciliaciones.",
         "url": "https://dxc.com/es/es",
         "startDate": "2020-12-21",
@@ -122,7 +122,36 @@
         ]
       },
       {
-        "name": "Salinas y Fabres S.A.",
+        "name": "L2G telecom - Argentina",
+        "position": "Business Process Analyst - Especialista Administrativo.",
+        "url": "https://l2gtelecom.com/",
+        "startDate": "2020-03-01",
+        "endDate": "2020-08-15",
+        "summary": [
+          {
+            "highlight": "Análisis y optimización de procesos administrativos",
+            "description": "enfocados en el logro de objetivos operativos mediante gestión eficiente de contratos y vigilancia de cumplimiento"
+          },
+          {
+            "highlight": "Automatización de procesos de facturación",
+            "description": "incluyendo emisión, validación y contabilización de facturas con mejora de flujos operativos"
+          },
+          {
+            "highlight": "Gestión integral de procesos financieros",
+            "description": "para evaluación de performance y comunicación de información relevante para toma de decisiones"
+          },
+          {
+            "highlight": "Análisis y generación de reportes mensuales",
+            "description": "en procesos administrativos mediante análisis e interpretación de documentación"
+          },
+          {
+            "highlight": "Participación activa en iniciativas de mejora de procesos,",
+            "description": "contribuyendo a eficiencia operativa e innovación en flujos administrativos"
+          }
+        ]
+      },
+      {
+        "name": "Salinas y Fabres S.A. - Chile",
         "position": "Business Intelligence Analyst - Analista Contable de Existencias y Costos.",
         "url": "https://www.salfa.cl/",
         "startDate": "2018-10-01",
