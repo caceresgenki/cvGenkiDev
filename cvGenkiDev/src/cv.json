@@ -2,12 +2,12 @@
 {
     "basics": {
       "name": "Genki Cáceres",
-      "label": "Business Intelligence Analyst | Analista de Procesos de Negocio.",
+      "label": "Business Intelligence Analyst | Especialista en Optimización Operativa y Mejora de Procesos.",
       "image": null,
       "email": "caceresgenki@gmail.com",
       "phone": "+34 617646155",
       "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/",
-      "summary": "Business Intelligence Analyst con más de 10 años de experiencia procesos bancarios, business analytics, inteligencia de negocios y optimización operativa. Especializado en business intelligence, análisis de mejoras, automatización de procesos y reporting financiero. Apasionado por la tecnología, el desarrollo web y la programación. En constante aprendizaje de nuevas tecnologías y lenguajes de programación.",
+      "summary": "Business Intelligence Analyst con más de 10 años de experiencia en análisis y rediseño de procesos de negocio, business intelligence y optimización operativa. Especializado en identificación de ineficiencias, automatización de procesos y transformación digital en entornos bancarios y empresariales. Facilitador experto en workshops con stakeholders para cocrear soluciones y definir planes de implantación alineados con objetivos estratégicos. Apasionado por la mejora continua y las nuevas tecnologías.",
       "location": {
         "address": "",
         "postalCode": "46005",
@@ -40,7 +40,32 @@
         "url": "https://dxc.com/es/es",
         "startDate": "2024-07-15",
         "endDate": null,
-        "summary": "Diseño de sistemas como business intelligence automatizando procesos masivos documentales, reduciendo tiempos operativos mediante análisis funcional del negocio y recopilación de requisitos. Implementación de soluciones de business intelligence y análisis de datos con Excel avanzado y VBA para conciliación contable automática y registro directo en aplicaciones del banco. Desarrollo de automatización con integración Word-Excel usando modelado de procesos y configuración de campos dinamicos para optimización de procesos de negocio. Digitalización masiva de archivos, recopilando, limpiando y modelando según ficheros de carga definitivos."
+        "summary": [
+          {
+            "highlight": "Análisis y rediseño de procesos masivos documentales",
+            "description": "identificando ineficiencias operativas y oportunidades de optimización mediante análisis funcional del negocio"
+          },
+          {
+            "highlight": "Definición de modelos \"to-be\"",
+            "description": "y elaboración de planes de implantación para automatización de procesos con integración Word-Excel"
+          },
+          {
+            "highlight": "Facilitación de workshops",
+            "description": "con stakeholders del banco para recopilación de requisitos y diseño colaborativo de soluciones"
+          },
+          {
+            "highlight": "Diseño y documentación de procesos",
+            "description": "con modelado de procesos y configuración de campos dinámicos para optimización operativa"
+          },
+          {
+            "highlight": "Apoyo en transformación tecnológica",
+            "description": "implementando soluciones de business intelligence con Excel avanzado y VBA para registro directo en aplicaciones bancarias"
+          },
+          {
+            "highlight": "Definición de KPIs",
+            "description": "para conciliación contable automática y medición de rendimiento en digitalización masiva de archivos"
+          }
+        ]
       },
       {
         "name": "DXC Technology (BANCA MARCH)",
@@ -48,7 +73,28 @@
         "url": "https://dxc.com/es/es",
         "startDate": "2021-12-01",
         "endDate": "2024-05-03",
-        "summary": "Optimición de procesos de negocio para emisión de valores mediante mejora de procesos e implementación de flujos de trabajo eficientes. Ejecutión operaciones de divisas y títulos de Renta Fija Nacional y gestión de datos en entornos bancarios de alta demanda. Desarrollo de procesos automatizados y mejoras de procesos de conciliación contable aplicando pensamiento analitico y control de calidad. Gestión masiva de transferencias nacionales e internacionales mediante el analisis de procesos de negocio. Implementación de mejoras de procesos por medio de entornos visuales y la unificacion de herramientas para la disminución del error humano."
+        "summary": [
+          {
+            "highlight": "Optimización de procesos de negocio",
+            "description": "para emisión de valores mediante rediseño de flujos de trabajo y implementación de mejoras eficientes"
+          },
+          {
+            "highlight": "Análisis de procesos críticos",
+            "description": "en operaciones de divisas y títulos de Renta Fija Nacional en entornos bancarios de alta demanda"
+          },
+          {
+            "highlight": "Desarrollo de procesos automatizados y mejoras en conciliación contable",
+            "description": "aplicando principios de mejora continua y control de calidad"
+          },
+          {
+            "highlight": "Facilitación de iniciativas de mejora",
+            "description": "para gestión masiva de transferencias mediante análisis de procesos de negocio"
+          },
+          {
+            "highlight": "Implementación de entornos visuales",
+            "description": "y unificación de herramientas para reducción del error humano y optimización operativa"
+          }
+        ]
       },
       {
         "name": "DXC Technology (BANKINTER)",
@@ -56,7 +102,24 @@
         "url": "https://dxc.com/es/es",
         "startDate": "2020-12-21",
         "endDate": "2021-11-30",
-        "summary": "Optimización de análisis e interpretación de documentación para domiciliaciones, mejorando los flujos administrativos. Desarrollo de bases de datos especializadas y preparación y procesamiento de datos para documentación empresarial. Gestión de documentación con las partes interesados para la verificación documental y resolución de incidencias."
+        "summary": [
+          {
+            "highlight": "Análisis y optimización",
+            "description": "de procesos de domiciliaciones mediante rediseño de flujos administrativos"
+          },
+          {
+            "highlight": "Desarrollo de bases de datos especializadas",
+            "description": "y procesamiento de datos para mejora de documentación empresarial"
+          },
+          {
+            "highlight": "Gestión de stakeholders",
+            "description": "para verificación documental y resolución eficiente de incidencias"
+          },
+          {
+            "highlight": "Facilitación de mejoras",
+            "description": "en procesos administrativos mediante análisis e interpretación de documentación"
+          }
+        ]
       },
       {
         "name": "Salinas y Fabres S.A.",
@@ -64,7 +127,20 @@
         "url": "https://www.salfa.cl/",
         "startDate": "2018-10-01",
         "endDate": "2020-01-31",
-        "summary": "Diseño de plantillas automatizadas para cálculo de obsolescencia y análisis de datos de la cuenta EMRF (Entrada de Mercancia y Recepción de Facturas). Implementación de sistemas de automatizados para el calculo de provisiones y gestión de informes de las cuentas de ingresos, costos y gastos. Optimición del proceso de analisis de inventarios y procesos de conciliación mediante business intelligence y herramientas personalizadas."
+        "summary": [
+          {
+            "highlight": "Diseño de modelos automatizados",
+            "description": "para cálculo de obsolescencia y análisis de datos EMRF (Entrada de Mercancía y Recepción de Facturas)"
+          },
+          {
+            "highlight": "Implementación de sistemas automatizados",
+            "description": "para cálculo de provisiones y gestión de informes de cuentas de ingresos, costos y gastos"
+          },
+          {
+            "highlight": "Optimización de procesos",
+            "description": "de análisis de inventarios y mejora de procesos de conciliación mediante business intelligence y herramientas personalizadas"
+          }
+        ]
       }
     ],
     "education": [{
@@ -74,7 +150,7 @@
       "studyType": "Bachelor",
       "startDate": "2010-03-01",
       "endDate": "2016-12-01",
-      "summary": "Como Lcdo. en Contaduría Pública se puede trabajar como contables, auditores internos o externos, consultores financieros, analistas contables, entre otros roles relacionados con la gestión y analisis de datos contables y financieros."
+      "summary": "Formación sólida en análisis financiero, control de gestión y procesos contables, con capacidades para consultoría financiera y análisis de datos contables y financieros."
     }],
     "awards": [{
       "title": "Award",
@@ -96,36 +172,37 @@
       "summary": "Description…"
     }],
     "skills": [
+       {
+        "name": "Herramientas de Mejora de Procesos",
+        "items": ["Modelado de procesos", "Análisis de workflows", "Optimización operativa"]
+      },
       {
-        "name": "Office",
-        "level": "Med",
-        "keywords": [
-          "Desarrollo Web", "Frontend"
+        "name": "Business Intelligence",
+        "items": ["Excel avanzado", "VBA", "Power Automate", "Análisis de datos"]
+      },
+      {
+        "name": "Automatización",
+        "items": ["N8N", "Integración de sistemas", "RPA conceptual"]
+      },
+      {
+        "name": "Desarrollo Web",
+        "items": ["HTML", "CSS", "JavaScript", "Tailwind", "React"]
+      },
+      {
+        "name": "Documentación",
+        "items": ["Presentaciones ejecutivas", "Mapas de procesos", "Planes de acción"]
+      }
+    ],
+    "competencies": [{
+        "title": "Competencias Clave",
+        "items": [
+          "Análisis y rediseño de procesos con enfoque en identificación de ineficiencias",
+          "Facilitación de workshops y gestión de stakeholders",
+          "Definición de KPIs y cuadros de mando para mejora continua",
+          "Transformación digital y apoyo en iniciativas tecnológicas",
+          "Elaboración de entregables de consultoría (presentaciones ejecutivas, documentación técnica)",
+          "Aplicación práctica de principios de mejora continua y eliminación de desperdicios"
         ]
-      },
-      {
-        "name": "Excel"
-      },
-      {
-        "name": "Power Automate"
-      },
-      {
-        "name": "N8N"
-      },
-      {
-        "name": "HTML"
-      },
-      {
-        "name": "CSS"
-      },
-      {
-        "name": "JS"
-      },
-      {
-        "name": "Tailwind"
-      },
-      {
-        "name": "iReact"
       }
     ],
     "languages": [

@@ -1,52 +1,44 @@
 import Section from './Section'
-import {skills} from '../../cv.json'
-import CSS from '../Icons/Css'
-import HTML from '../Icons/Html'
-import GitHub from '../Icons/GitHub'
-import Tailwind from '../Icons/Tailwind'
-import iReact from '../Icons/iReact'
-import JS from '../Icons/JavaScript'
-import Office from '../Icons/Office'
-import Excel from '../Icons/Excel'
+import {skills, competencies} from '../../cv.json'
 import '../../StyleCss/Skills.css'
 
-
-const SOCIAL_ICONS = {
-  Office,
-  Excel,
-  HTML,
-  CSS,
-  JS,
-  Tailwind,
-  iReact,
-  GitHub,
-};
-
 function Skills() {
-   return (
-   <>
-     <Section id='skills' title='Habilidades'>
-        <div className='ulSkills'>
-        {
-          skills.map(({ name }) => {
-          const iconName = name === "Git.jsx" ? "Git" : name
-          const nameReact = name === "iReact" ? "React" : name
-          const Icon = SOCIAL_ICONS[iconName];
-                
-          return (
-            <ul key={name}>
-              <li className= 'listSkills'>
-                {Icon && <Icon />} <span>{nameReact}</span>
+  return (
+    <Section id='skills' title='Habilidades Técnicas'>
+      <div className='skillsContainer'>
+        {/* Habilidades Técnicas */}
+        <div className='skillSection'>
+          {/* <h3 className='skillSectionTitle'>Habilidades Técnicas</h3> */}
+          {skills.map((category) => (
+            <div key={category.name} className='skillCategory'>
+              <h4 className='categoryTitle'>{category.name}:</h4>
+              <div className='ulSkills'>
+                {category.items.map((item) => (
+                  <ul key={item}>
+                    <li className='listSkills'>
+                      <span>{item}</span>
+                    </li>
+                  </ul>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Competencias Clave */}
+        <div className='skillSection'>
+          <h3 className='skillSectionTitle'>{competencies[0].title}</h3>
+          <ul className='competenciesList'>
+            {competencies[0].items.map((competency, index) => (
+              <li key={index} className='competencyItem'>
+                {competency}
               </li>
-            </ul>
-            
-            );
-            })
-         }  
-         </div>
-     </Section>
-   </>
-   )
-  }
+            ))}
+          </ul>
+        </div>
+      </div>
+    </Section>
+  )
+}
 
 export default Skills

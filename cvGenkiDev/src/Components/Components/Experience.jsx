@@ -2,9 +2,9 @@ import Section from './Section'
 import {work} from '../../cv.json'
 import '../../StyleCss/Experience.css'
 
-
 function Experience() {
-   return (
+
+  return (
    <>
      <Section id='experience' title='Experiencia Laboral'>
         <ul>
@@ -18,8 +18,6 @@ function Experience() {
               const years = `${startMonth}${startYear} - ${endMonth}${endYear}`;
 
               const urlCompany = url ? <a className='urlWeb' title={`Ver ${name}`} href={url} target="_blank">web</a> : "";
-  
-
               
               return (
                 <li className= 'list-experience' key={name + startDate}>
@@ -35,8 +33,13 @@ function Experience() {
                       <time>{years}</time>
                     </header>
                     <footer className='descriptionExperience'>
-
-                      <p>{summary}</p>
+                      <ul className='summary-list'>
+                        {summary.map((item, index) => (
+                          <li key={index}>
+                            <strong>{item.highlight}</strong> {item.description}.
+                          </li>
+                        ))}
+                      </ul>
                     </footer>
                   </article>
                 </li>
@@ -47,6 +50,6 @@ function Experience() {
      </Section>
    </>
    )
-  }
+}
 
 export default Experience

@@ -1,11 +1,41 @@
-/* Estilos Experience */
+/* Estilos para la lista del summary */
+.summary-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px; /* Menor gap que el ul principal */
+}
 
-  ul {
+.summary-list li {
+  position: relative;
+  padding-left: 20px;
+  line-height: 1.4;
+  letter-spacing: 0;
+  font-size: 0.8rem;
+}
+
+.summary-list li::before {
+  content: "•";
+  color: #666;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.summary-list strong {
+  font-weight: 600;
+  color: #111;
+}
+
+ ul {
     display: flex;
     flex-direction: column;
     gap: 32px;
   }
-  
+
   .list-experience {
     background-color: transparent;
     page-break-inside: avoid;
@@ -23,23 +53,23 @@
   article a {
     color: #111;
   }
-  
+
   article a:hover {
     text-decoration: underline;
   }
-  
+
   article h4 {
     color: #222;
     font-weight: 400;
   }
-  
+
   header {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 4px;
+    margin-bottom: 12px;
   }
-  
+
   time {
     color: #555;
     font-size: 0.85rem;
@@ -50,7 +80,7 @@
   .descriptionExperience p {
     letter-spacing: 0;
   }
-  
+
   @media (width <= 700px) {
     time {
       text-align: right;
