@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://genkicaceres.github.io/cvGenkiDev/sitemap.xml
+Sitemap: https://cvgenkicaceres.netlify.app/sitemap.xml
 
 # Common crawl rules
 Disallow: /node_modules/
