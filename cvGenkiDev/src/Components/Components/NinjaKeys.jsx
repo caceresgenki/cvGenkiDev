@@ -38,7 +38,7 @@ function NinjaKeys() {
       {
         id: "print",
         title: "Imprimir",
-        hotkey: "ctrl+P",
+        hotkey: "ctrl+shift+P",
         icon: `<svg 
         xmlns="http://www.w3.org/2000/svg" 
         fill="none" 

@@ -11,7 +11,7 @@ import Image from '../../Image/ImageProfile.jpg'
 
 
 
-const {name, label, location, profiles, phone, email} = basics
+const {name, label, location, profiles, phone, email, page} = basics
 const {city, region} = location
 
 const SOCIAL_ICONS = {
@@ -20,7 +20,7 @@ const SOCIAL_ICONS = {
   Whatsapp,
 };
 
-const printInfo = [email, phone].filter(Boolean).join(" • ")
+const printInfo = [email, phone, page].filter(Boolean).join(" • ")
 
 function Hero() {
     return   (
