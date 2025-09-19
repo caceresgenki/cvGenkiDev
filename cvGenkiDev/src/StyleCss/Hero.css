@@ -21,16 +21,28 @@
     padding-right: 32px;
   }
 
-  h1 {
+  /* h1 {
     font-size: 2rem;
+  } */
+
+  .nameHero {
+    font-size: 2rem;
+    color: #111;
   }
 
 
-
-  h2 {
+  /* h2 {
     color: #444;
     font-weight: 500;
     font-size: 1.5rem;
+    text-wrap: balance;
+    font-weight: 700
+  } */
+
+  .labelHero {
+    color: #444;
+    font-weight: 500;
+    font-size: 1.3rem;
     text-wrap: balance;
     font-weight: 700
   }
