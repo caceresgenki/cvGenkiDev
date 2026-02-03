@@ -29,7 +29,7 @@ function ButtonCtrl() {
               height="32"
               viewBox="0 0 24 24"
               strokeWidth="1.5"
-              stroke="#777"
+              stroke="#374151"
               fill="none"
               strokeLinecap="round"
               strokeLinejoin="round"

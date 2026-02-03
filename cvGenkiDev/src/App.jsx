@@ -5,6 +5,7 @@ import Experience from '../src/Components/Components/Experience'
 import Hero from '../src/Components/Components/Hero'
 import Skills from '../src/Components/Components/Skills'
 import KeyboardManager from '../src/Components/Components/KeyboardManager'
+import ScrollToTop from '../src/Components/Components/ScrollToTop'
 
 function App() {
  return   (
@@ -21,6 +22,7 @@ function App() {
       <Skills />
     </main>
     <KeyboardManager />
+    <ScrollToTop />
   </>
  )
 }
