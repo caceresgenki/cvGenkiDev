@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -Command \"\\(Get-Content ''CV-PageSpeed.html'' -Raw\\).Substring\\(0, 5000\\)\")",
+      "Bash(powershell -Command:*)",
+      "Bash(move:*)",
+      "Bash(node parse-lighthouse.cjs:*)"
+    ]
+  }
+}

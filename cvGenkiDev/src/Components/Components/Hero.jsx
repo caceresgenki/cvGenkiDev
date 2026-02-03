@@ -28,12 +28,12 @@ function Hero() {
       <Section id='hero' className='hero'>
         <div className='container'>
           <div className='info'>
-            <h2 className='nameHero'>
+            <h1 className='nameHero'>
               {name}
-            </h2>
-            <h1 className='labelHero'>
-              {label}
             </h1>
+            <h2 className='labelHero'>
+              {label}
+            </h2>
             <span>
               <WorldMap />
               {city}, {region}
