@@ -14,7 +14,7 @@ function Projects() {
             projects.map(
               ({ url, description, highlights, name, isActive, github }) => {
                 return (
-                  <li>
+                  <li key={name}>
                     <article className='artProjects'>
                       <header className='headProjects'>
                         <h3 className='nameProject'>
@@ -24,9 +24,10 @@ function Projects() {
                           {isActive && <span>•</span>}
                           {github && (
                             <a
-                              class="github-code-link"
+                              className="github-code-link"
                               href={github}
                               target="_blank"
+                              rel="noopener noreferrer"
                               title={`Ver código fuente del proyecto ${name}`}
                             >
                               <GitHub />
@@ -36,8 +37,8 @@ function Projects() {
                         <p>{description}</p>
                       </header>
                       <footer>
-                        {highlights.map((highlight) => {
-                          return <span>{highlight}</span>
+                        {highlights.map((highlight, index) => {
+                          return <span key={index}>{highlight}</span>
                         })}
                       </footer>
                     </article>

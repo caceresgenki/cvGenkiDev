@@ -102,10 +102,4 @@ function Hero() {
         )
    }
 
-   <style>
-
-
-   </style>
-
-
 export default Hero
