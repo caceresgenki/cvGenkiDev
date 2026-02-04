@@ -1,179 +1,179 @@
-
 {
-    "basics": {
-      "name": "Genki Cáceres",
-      "label": "Business Intelligence Analyst | Especialista en Optimización Operativa y Mejora de Procesos.",
-      "image": null,
-      "email": "caceresgenki@gmail.com",
-      "phone": "+34 617646155",
-      "page": "https://cvgenkicaceres.netlify.app/",
-      "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/",
-      "summary": "Business Intelligence Analyst con más de 10 años de experiencia en análisis y rediseño de procesos de negocio, business intelligence y optimización operativa. Especializado en identificación de ineficiencias, automatización de procesos y transformación digital en entornos bancarios y empresariales. Facilitador experto en workshops con stakeholders para cocrear soluciones y definir planes de implantación alineados con objetivos estratégicos. Apasionado por la mejora continua y las nuevas tecnologías.",
-      "location": {
-        "address": "",
-        "postalCode": "46005",
-        "city": "Valencia",
-        "countryCode": "ES",
-        "region": "España"
+  "basics": {
+    "name": "Genki Cáceres",
+    "label": "Business Intelligence Analyst | Especialista en Optimización Operativa y Mejora de Procesos.",
+    "image": null,
+    "email": "caceresgenki@gmail.com",
+    "phone": "+34 617646155",
+    "page": "https://genkicaceres.itsgenki.com/",
+    "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/",
+    "summary": "Business Intelligence Analyst con más de 10 años de experiencia en análisis y rediseño de procesos de negocio, business intelligence y optimización operativa. Especializado en identificación de ineficiencias, automatización de procesos y transformación digital en entornos bancarios y empresariales. Facilitador experto en workshops con stakeholders para cocrear soluciones y definir planes de implantación alineados con objetivos estratégicos. Apasionado por la mejora continua y las nuevas tecnologías.",
+    "location": {
+      "address": "",
+      "postalCode": "46005",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "Whatsapp",
+        "username": "Genki Cáceres",
+        "url": "https://wa.me/34617646155"
       },
-      "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Genki Cáceres",
+        "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Genki Cáceres",
+        "url": "https://github.com/caceresgenki"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "DXC Technology (BANCA MARCH)",
+      "position": "Business Intelligence Analyst - Back Office Valores y Fondos.",
+      "url": "https://dxc.com/es/es",
+      "startDate": "2024-07-15",
+      "endDate": null,
+      "summary": [
         {
-          "network": "Whatsapp",
-          "username": "Genki Cáceres",
-          "url": "https://wa.me/34617646155"
+          "highlight": "Análisis y rediseño de procesos masivos documentales",
+          "description": "identificando ineficiencias operativas y oportunidades de optimización mediante análisis funcional del negocio"
         },
         {
-          "network": "LinkedIn",
-          "username": "Genki Cáceres",
-          "url": "https://www.linkedin.com/in/genki-c%C3%A1ceres-49154696/"
+          "highlight": "Definición de modelos \"to-be\"",
+          "description": "y elaboración de planes de implantación para automatización de procesos con integración Word-Excel"
         },
         {
-          "network": "GitHub",
-          "username": "Genki Cáceres",
-          "url": "https://github.com/caceresgenki"
+          "highlight": "Facilitación de workshops",
+          "description": "con stakeholders del banco para recopilación de requisitos y diseño colaborativo de soluciones"
+        },
+        {
+          "highlight": "Diseño y documentación de procesos",
+          "description": "con modelado de procesos y configuración de campos dinámicos para optimización operativa"
+        },
+        {
+          "highlight": "Apoyo en transformación tecnológica",
+          "description": "implementando soluciones de business intelligence con Excel avanzado y VBA para registro directo en aplicaciones bancarias"
+        },
+        {
+          "highlight": "Definición de KPIs",
+          "description": "para conciliación contable automática y medición de rendimiento en digitalización masiva de archivos"
         }
       ]
     },
-    "work": [
-      {
-        "name": "DXC Technology (BANCA MARCH)",
-        "position": "Business Intelligence Analyst - Back Office Valores y Fondos.",
-        "url": "https://dxc.com/es/es",
-        "startDate": "2024-07-15",
-        "endDate": null,
-        "summary": [
-          {
-            "highlight": "Análisis y rediseño de procesos masivos documentales",
-            "description": "identificando ineficiencias operativas y oportunidades de optimización mediante análisis funcional del negocio"
-          },
-          {
-            "highlight": "Definición de modelos \"to-be\"",
-            "description": "y elaboración de planes de implantación para automatización de procesos con integración Word-Excel"
-          },
-          {
-            "highlight": "Facilitación de workshops",
-            "description": "con stakeholders del banco para recopilación de requisitos y diseño colaborativo de soluciones"
-          },
-          {
-            "highlight": "Diseño y documentación de procesos",
-            "description": "con modelado de procesos y configuración de campos dinámicos para optimización operativa"
-          },
-          {
-            "highlight": "Apoyo en transformación tecnológica",
-            "description": "implementando soluciones de business intelligence con Excel avanzado y VBA para registro directo en aplicaciones bancarias"
-          },
-          {
-            "highlight": "Definición de KPIs",
-            "description": "para conciliación contable automática y medición de rendimiento en digitalización masiva de archivos"
-          }
-        ]
-      },
-      {
-        "name": "DXC Technology (BANCA MARCH)",
-        "position": "Business Intelligence Analyst - Back Office Depositaría y Renta Fija.",
-        "url": "https://dxc.com/es/es",
-        "startDate": "2021-12-01",
-        "endDate": "2024-05-03",
-        "summary": [
-          {
-            "highlight": "Optimización de procesos de negocio",
-            "description": "para emisión de valores mediante rediseño de flujos de trabajo y implementación de mejoras eficientes"
-          },
-          {
-            "highlight": "Análisis de procesos críticos",
-            "description": "en operaciones de divisas y títulos de Renta Fija Nacional en entornos bancarios de alta demanda"
-          },
-          {
-            "highlight": "Desarrollo de procesos automatizados y mejoras en conciliación contable",
-            "description": "aplicando principios de mejora continua y control de calidad"
-          },
-          {
-            "highlight": "Facilitación de iniciativas de mejora",
-            "description": "para gestión masiva de transferencias mediante análisis de procesos de negocio"
-          },
-          {
-            "highlight": "Implementación de entornos visuales",
-            "description": "y unificación de herramientas para reducción del error humano y optimización operativa"
-          }
-        ]
-      },
-      {
-        "name": "DXC Technology (BANKINTER) - España",
-        "position": "Business Process Analyst - Gestor de Domiciliaciones.",
-        "url": "https://dxc.com/es/es",
-        "startDate": "2020-12-21",
-        "endDate": "2021-11-30",
-        "summary": [
-          {
-            "highlight": "Análisis y optimización",
-            "description": "de procesos de domiciliaciones mediante rediseño de flujos administrativos"
-          },
-          {
-            "highlight": "Desarrollo de bases de datos especializadas",
-            "description": "y procesamiento de datos para mejora de documentación empresarial"
-          },
-          {
-            "highlight": "Gestión de stakeholders",
-            "description": "para verificación documental y resolución eficiente de incidencias"
-          },
-          {
-            "highlight": "Facilitación de mejoras",
-            "description": "en procesos administrativos mediante análisis e interpretación de documentación"
-          }
-        ]
-      },
-      {
-        "name": "L2G telecom - Argentina",
-        "position": "Business Process Analyst - Especialista Administrativo.",
-        "url": "https://l2gtelecom.com/",
-        "startDate": "2020-03-01",
-        "endDate": "2020-08-15",
-        "summary": [
-          {
-            "highlight": "Análisis y optimización de procesos administrativos",
-            "description": "enfocados en el logro de objetivos operativos mediante gestión eficiente de contratos y vigilancia de cumplimiento"
-          },
-          {
-            "highlight": "Automatización de procesos de facturación",
-            "description": "incluyendo emisión, validación y contabilización de facturas con mejora de flujos operativos"
-          },
-          {
-            "highlight": "Gestión integral de procesos financieros",
-            "description": "para evaluación de performance y comunicación de información relevante para toma de decisiones"
-          },
-          {
-            "highlight": "Análisis y generación de reportes mensuales",
-            "description": "en procesos administrativos mediante análisis e interpretación de documentación"
-          },
-          {
-            "highlight": "Participación activa en iniciativas de mejora de procesos,",
-            "description": "contribuyendo a eficiencia operativa e innovación en flujos administrativos"
-          }
-        ]
-      },
-      {
-        "name": "Salinas y Fabres S.A. - Chile",
-        "position": "Business Intelligence Analyst - Analista Contable de Existencias y Costos.",
-        "url": "https://www.salfa.cl/",
-        "startDate": "2018-10-01",
-        "endDate": "2020-01-31",
-        "summary": [
-          {
-            "highlight": "Diseño de modelos automatizados",
-            "description": "para cálculo de obsolescencia y análisis de datos EMRF (Entrada de Mercancía y Recepción de Facturas)"
-          },
-          {
-            "highlight": "Implementación de sistemas automatizados",
-            "description": "para cálculo de provisiones y gestión de informes de cuentas de ingresos, costos y gastos"
-          },
-          {
-            "highlight": "Optimización de procesos",
-            "description": "de análisis de inventarios y mejora de procesos de conciliación mediante business intelligence y herramientas personalizadas"
-          }
-        ]
-      }
-    ],
-    "education": [{
+    {
+      "name": "DXC Technology (BANCA MARCH)",
+      "position": "Business Intelligence Analyst - Back Office Depositaría y Renta Fija.",
+      "url": "https://dxc.com/es/es",
+      "startDate": "2021-12-01",
+      "endDate": "2024-05-03",
+      "summary": [
+        {
+          "highlight": "Optimización de procesos de negocio",
+          "description": "para emisión de valores mediante rediseño de flujos de trabajo y implementación de mejoras eficientes"
+        },
+        {
+          "highlight": "Análisis de procesos críticos",
+          "description": "en operaciones de divisas y títulos de Renta Fija Nacional en entornos bancarios de alta demanda"
+        },
+        {
+          "highlight": "Desarrollo de procesos automatizados y mejoras en conciliación contable",
+          "description": "aplicando principios de mejora continua y control de calidad"
+        },
+        {
+          "highlight": "Facilitación de iniciativas de mejora",
+          "description": "para gestión masiva de transferencias mediante análisis de procesos de negocio"
+        },
+        {
+          "highlight": "Implementación de entornos visuales",
+          "description": "y unificación de herramientas para reducción del error humano y optimización operativa"
+        }
+      ]
+    },
+    {
+      "name": "DXC Technology (BANKINTER) - España",
+      "position": "Business Process Analyst - Gestor de Domiciliaciones.",
+      "url": "https://dxc.com/es/es",
+      "startDate": "2020-12-21",
+      "endDate": "2021-11-30",
+      "summary": [
+        {
+          "highlight": "Análisis y optimización",
+          "description": "de procesos de domiciliaciones mediante rediseño de flujos administrativos"
+        },
+        {
+          "highlight": "Desarrollo de bases de datos especializadas",
+          "description": "y procesamiento de datos para mejora de documentación empresarial"
+        },
+        {
+          "highlight": "Gestión de stakeholders",
+          "description": "para verificación documental y resolución eficiente de incidencias"
+        },
+        {
+          "highlight": "Facilitación de mejoras",
+          "description": "en procesos administrativos mediante análisis e interpretación de documentación"
+        }
+      ]
+    },
+    {
+      "name": "L2G telecom - Argentina",
+      "position": "Business Process Analyst - Especialista Administrativo.",
+      "url": "https://l2gtelecom.com/",
+      "startDate": "2020-03-01",
+      "endDate": "2020-08-15",
+      "summary": [
+        {
+          "highlight": "Análisis y optimización de procesos administrativos",
+          "description": "enfocados en el logro de objetivos operativos mediante gestión eficiente de contratos y vigilancia de cumplimiento"
+        },
+        {
+          "highlight": "Automatización de procesos de facturación",
+          "description": "incluyendo emisión, validación y contabilización de facturas con mejora de flujos operativos"
+        },
+        {
+          "highlight": "Gestión integral de procesos financieros",
+          "description": "para evaluación de performance y comunicación de información relevante para toma de decisiones"
+        },
+        {
+          "highlight": "Análisis y generación de reportes mensuales",
+          "description": "en procesos administrativos mediante análisis e interpretación de documentación"
+        },
+        {
+          "highlight": "Participación activa en iniciativas de mejora de procesos,",
+          "description": "contribuyendo a eficiencia operativa e innovación en flujos administrativos"
+        }
+      ]
+    },
+    {
+      "name": "Salinas y Fabres S.A. - Chile",
+      "position": "Business Intelligence Analyst - Analista Contable de Existencias y Costos.",
+      "url": "https://www.salfa.cl/",
+      "startDate": "2018-10-01",
+      "endDate": "2020-01-31",
+      "summary": [
+        {
+          "highlight": "Diseño de modelos automatizados",
+          "description": "para cálculo de obsolescencia y análisis de datos EMRF (Entrada de Mercancía y Recepción de Facturas)"
+        },
+        {
+          "highlight": "Implementación de sistemas automatizados",
+          "description": "para cálculo de provisiones y gestión de informes de cuentas de ingresos, costos y gastos"
+        },
+        {
+          "highlight": "Optimización de procesos",
+          "description": "de análisis de inventarios y mejora de procesos de conciliación mediante business intelligence y herramientas personalizadas"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
       "institution": "Universidad de Oriente - Venezuela",
       "url": "https://udo.education/",
       "area": "Lcdo. en Contaduría Pública (Grado en Contabilidad y Finanzas).",
@@ -181,91 +181,105 @@
       "startDate": "2010-03-01",
       "endDate": "2016-12-01",
       "summary": "Formación sólida en análisis financiero, control de gestión y procesos contables, con capacidades para consultoría financiera y análisis de datos contables y financieros."
-    }],
-    "awards": [{
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [
-       {
-        "name": "Herramientas de Mejora de Procesos",
-        "items": ["Modelado de procesos", "Análisis de workflows", "Optimización operativa"]
-      },
-      {
-        "name": "Business Intelligence",
-        "items": ["Excel avanzado", "VBA", "Power Automate", "Análisis de datos"]
-      },
-      {
-        "name": "Automatización",
-        "items": ["N8N", "Integración de sistemas", "RPA conceptual"]
-      },
-      {
-        "name": "Desarrollo Web",
-        "items": ["HTML", "CSS", "JavaScript", "Tailwind", "React"]
-      },
-      {
-        "name": "Documentación",
-        "items": ["Presentaciones ejecutivas", "Mapas de procesos", "Planes de acción"]
-      }
-    ],
-    "competencies": [{
-        "title": "Competencias Clave",
-        "items": [
-          "Análisis y rediseño de procesos con enfoque en identificación de ineficiencias",
-          "Facilitación de workshops y gestión de stakeholders",
-          "Definición de KPIs y cuadros de mando para mejora continua",
-          "Transformación digital y apoyo en iniciativas tecnológicas",
-          "Elaboración de entregables de consultoría (presentaciones ejecutivas, documentación técnica)",
-          "Aplicación práctica de principios de mejora continua y eliminación de desperdicios"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "Spanish",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Advanced"
-      }
-    ],
-    "interests": [{
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Herramientas de Mejora de Procesos",
+      "items": [
+        "Modelado de procesos",
+        "Análisis de workflows",
+        "Optimización operativa"
       ]
-    }],
-    "references": [{
+    },
+    {
+      "name": "Business Intelligence",
+      "items": ["Excel avanzado", "VBA", "Power Automate", "Análisis de datos"]
+    },
+    {
+      "name": "Automatización",
+      "items": ["N8N", "Integración de sistemas", "RPA conceptual"]
+    },
+    {
+      "name": "Desarrollo Web",
+      "items": ["HTML", "CSS", "JavaScript", "Tailwind", "React"]
+    },
+    {
+      "name": "Documentación",
+      "items": [
+        "Presentaciones ejecutivas",
+        "Mapas de procesos",
+        "Planes de acción"
+      ]
+    }
+  ],
+  "competencies": [
+    {
+      "title": "Competencias Clave",
+      "items": [
+        "Análisis y rediseño de procesos con enfoque en identificación de ineficiencias",
+        "Facilitación de workshops y gestión de stakeholders",
+        "Definición de KPIs y cuadros de mando para mejora continua",
+        "Transformación digital y apoyo en iniciativas tecnológicas",
+        "Elaboración de entregables de consultoría (presentaciones ejecutivas, documentación técnica)",
+        "Aplicación práctica de principios de mejora continua y eliminación de desperdicios"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [
-      {
-        "name": "mars.codes",
-        "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
-        "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
-        ],
-        "url": "https://mars.codes"
-      }
-    ]
-  }
+    }
+  ],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
+      "url": "https://mars.codes"
+    }
+  ]
+}
