@@ -26,12 +26,15 @@ nav {
 
 /* Logo styling */
 .logo {
-    font-size: 1.5rem;
-    font-weight: 700;
-    color: #000000;
-    letter-spacing: -0.5px;
-    transition: color 0.3s ease;
+    display: flex;
+    align-items: center;
+    transition: opacity 0.3s ease;
     cursor: pointer;
+}
+
+.logo img {
+    height: 40px;
+    width: auto;
 }
 
 /* .logo:hover {
@@ -236,10 +239,10 @@ nav {
         height: 56px;
     }
     
-    .logo {
-        font-size: 1.25rem;
+    .logo img {
+        height: 36px;
     }
-    
+
     /* Hide desktop menu, show mobile button */
     .desktop-menu {
         display: none;
@@ -261,8 +264,8 @@ nav {
         height: 52px;
     }
     
-    .logo {
-        font-size: 1.1rem;
+    .logo img {
+        height: 32px;
     }
     
     /* Mobile menu adjustments */

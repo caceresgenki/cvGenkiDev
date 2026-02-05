@@ -23,7 +23,7 @@ function NavBar() {
     return   (
     <>
       <nav className='navbar'>
-        <div><a className='logo' href="#hero" title="Inicio" onClick={(e) => { e.preventDefault(); scrollToSection('hero'); }}>{`<GC/>`}</a></div>
+        <div><a className='logo' href="#hero" title="Inicio" onClick={(e) => { e.preventDefault(); scrollToSection('hero'); }}><img src="/Image/GC_Logo.svg" alt="Genki Cáceres Logo" /></a></div>
         
         {/* Desktop Menu */}
         <div className='nav-menu desktop-menu'>
